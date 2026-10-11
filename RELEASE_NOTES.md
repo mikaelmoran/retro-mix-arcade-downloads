@@ -1,8 +1,9 @@
-# Retro Mix Arcade 1.2.8
+# Retro Mix Arcade 1.2.9
 
-Retro Mix Arcade now imports newer effect settings from the standalone Sprint 2
-app when Retro Mix opens, becomes active, or you click **Refresh effects**.
-Recent effect choices made in Retro Mix are preserved when they are newer.
+Vectoroid's AI game now advances with real elapsed time when a full-size frame
+takes longer to draw. The simulation uses short steps to keep movement and
+collisions stable, and limits catch-up after a long pause. This keeps the
+action at its intended speed on demanding displays.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
