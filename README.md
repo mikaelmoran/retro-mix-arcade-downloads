@@ -16,7 +16,7 @@ click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **RetroMixModern**.
 
 The app requires macOS 14 or newer and includes Apple Silicon and Intel code.
-This preview is locally signed and has not been notarized by Apple. If macOS
+This build is locally signed and has not been notarized by Apple. If macOS
 blocks it, try opening the app once, then use **System Settings → Privacy &
 Security → Open Anyway** as described in [Apple's instructions](https://support.apple.com/en-us/102445).
 
@@ -28,6 +28,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   other screen effects across all games.
 - Separate game-specific effect controls, including 60 Sprint effects.
 - A preview that follows the currently selected game.
+- A moving JMR watermark that can be removed with a personal code from the
+  [$5 unlock item](https://buymeacoffee.com/mikaelmoran/e/585964).
 
 ## Gameplay captures
 
