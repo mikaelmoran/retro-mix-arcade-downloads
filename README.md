@@ -25,8 +25,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 - Six games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
-- Sprint's shared scanlines, glow, curvature, flicker, noise, RGB split, and
-  other screen effects across all games.
+- Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
+  and other screen effects across all games.
 - Separate game-specific effect controls, including 60 Sprint effects.
 - A preview that follows the currently selected game.
 - Two AI tanks that rotate, steer, and fire in Tank Duel; an AI paddle that

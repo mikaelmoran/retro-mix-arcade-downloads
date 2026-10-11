@@ -1,26 +1,16 @@
-# Retro Mix Arcade 1.2.0
+# Retro Mix Arcade 1.2.1
 
-This update adds two autonomous arcade games while keeping the same Sprint
-monochrome palette and shared CRT settings. Previously issued JMR unlock
-codes remain valid.
+This update brings the other five games closer to Sprint 2's CRT presentation.
 
-## New games
+- Vectoroid, Pong, Light Cycles, Tank Duel, and Breakout now share Sprint's
+  rounded glass aperture, dark tube rim, and subtle lit edge.
+- Scanlines are stronger and more consistent across the games. Sprint's shared
+  scanline, glow, curvature, and intensity controls still govern the display.
+- The glass frame is kept in a static layer so it does not need to be rebuilt
+  for every animation frame.
 
-- **Tank Duel:** two AI tanks steer around cover, rotate with their movement,
-  aim independently, fire, score, and start new rounds.
-- **Breakout:** a predictive AI paddle tracks the ball, breaks bricks, and
-  starts a new level automatically.
-- Each new game has 60 selectable effects, including the common Sprint CRT
-  controls and its own game effects.
-- Mixed mode now rotates through all six games. Existing Mixed selections
-  migrate automatically.
-
-## Display refinements
-
-- Sprint applies its curved-tube warp to the small game image before display.
-- Vectoroid uses a lighter edge vignette and batches scanlines and pixel grille
-  drawing for smoother playback on large screens.
-- Shared effect choices are resolved when settings load across the games.
+The six AI games, Mixed mode, game-specific effects, and existing JMR unlock
+codes are included.
 
 ## Installation
 
