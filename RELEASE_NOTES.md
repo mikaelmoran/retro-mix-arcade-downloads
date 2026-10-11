@@ -1,14 +1,19 @@
-# Retro Mix Arcade 1.1.2
+# Retro Mix Arcade 1.2.0
 
-This update fixes JMR unlocking and code entry. Previously issued personal
-codes remain valid and do not need to be entered again.
+This update adds two autonomous arcade games while keeping the same Sprint
+monochrome palette and shared CRT settings. Previously issued JMR unlock
+codes remain valid.
 
-## Fixes
+## New games
 
-- The screen saver now reads the saved unlock code from the correct sandbox
-  location, so the moving JMR mark disappears after a valid code is entered.
-- The app now has an Edit menu, enabling Command-V in the unlock-code field.
-- The unlock-code field receives focus when its window opens.
+- **Tank Duel:** two AI tanks steer around cover, rotate with their movement,
+  aim independently, fire, score, and start new rounds.
+- **Breakout:** a predictive AI paddle tracks the ball, breaks bricks, and
+  starts a new level automatically.
+- Each new game has 60 selectable effects, including the common Sprint CRT
+  controls and its own game effects.
+- Mixed mode now rotates through all six games. Existing Mixed selections
+  migrate automatically.
 
 ## Installation
 
