@@ -1,14 +1,11 @@
-# Retro Mix Arcade 1.2.4
+# Retro Mix Arcade 1.2.5
 
-Tank Duel now follows the original game's fixed-cannon behavior.
+Vectoroid's ambient grid now renders with fewer drawing passes, improving
+full-screen animation while keeping its monochrome CRT look.
 
-- Each cannon is locked to its tank chassis. To aim, the AI stops and rotates
-  the entire tank toward its target.
-- Bullets always leave in the direction the tank faces.
-- The AI resumes steering through the maze after firing and still uses brief
-  cover and evasive moves when threatened.
-- The darker field, bright walls, smaller tanks, CRT effects, and randomized
-  arenas from the previous release remain.
+- In a 2560 × 1440 software render benchmark, Vectoroid's average frame time
+  improved from about 129 ms to 103 ms with the current effect settings.
+- Tank Duel keeps the fixed cannon and whole-tank aiming introduced in 1.2.4.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
