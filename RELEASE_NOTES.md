@@ -1,20 +1,26 @@
-# Retro Mix Arcade 1.0 Preview
+# Retro Mix Arcade 1.1.2
 
-Four autonomous arcade games in one macOS screen saver: Sprint 2, Vectoroid,
-Pong, and Light Cycles.
+This update fixes JMR unlocking and code entry. Previously issued personal
+codes remain valid and do not need to be entered again.
 
-- Choose a single game or rotate through all four with a CRT tuning transition.
-- Tune shared analog screen effects and separate game effects in the app.
-- Preview the selected game before applying it as a screen saver.
+## Fixes
 
-## Install
+- The screen saver now reads the saved unlock code from the correct sandbox
+  location, so the moving JMR mark disappears after a valid code is entered.
+- The app now has an Edit menu, enabling Command-V in the unlock-code field.
+- The unlock-code field receives focus when its window opens.
 
-Expand the macOS ZIP, move **Retro Mix Arcade.app** to Applications, open it,
-and click **Save selection**. Then choose **RetroMixModern** in **System
-Settings → Wallpaper → Screen Saver**.
+## Installation
 
-Requires macOS 14 or newer. Includes Apple Silicon and Intel code. This
-preview is locally signed and has not been notarized by Apple. If macOS blocks
-it, follow [Apple's Open Anyway instructions](https://support.apple.com/en-us/102445).
+1. Expand the macOS ZIP and move `Retro Mix Arcade.app` to Applications,
+   replacing the previous copy.
+2. Open the app and click **Save selection**.
+3. In **System Settings → Wallpaper → Screen Saver**, choose
+   **RetroMixModern**.
 
-The ZIP includes the third-party license notice.
+Requires macOS 14 or newer. The app contains Apple Silicon and Intel code.
+The [$5 JMR unlock item](https://buymeacoffee.com/mikaelmoran/e/585964)
+remains available.
+
+This archive is locally signed for development. For a smooth installation on
+other Macs, a Developer ID signed and notarized archive is required.
