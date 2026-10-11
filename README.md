@@ -29,8 +29,11 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   and other screen effects across all games.
 - Separate game-specific effect controls, including 60 Sprint effects.
 - A preview that follows the currently selected game.
-- Two AI tanks that rotate, navigate randomized maze arenas, and fire in Tank
-  Duel; an AI paddle that predicts the ball in Breakout.
+- Two AI tanks that navigate randomized mazes, use cover briefly when
+  threatened, and seek clear shots in Tank Duel; an AI paddle that predicts
+  the ball in Breakout.
+- Tank Duel's dark field, bright walls, small rotating tanks, and simple score
+  display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
   [$5 unlock item](https://buymeacoffee.com/mikaelmoran/e/585964).
 

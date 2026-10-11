@@ -1,13 +1,14 @@
-# Retro Mix Arcade 1.2.2
+# Retro Mix Arcade 1.2.3
 
-Tank Duel now builds a fresh maze after every scored round.
+Tank Duel now plays more tactically and looks closer to the original arcade game.
 
-- Each arena is a randomized, connected network of corridors and walls. The
-  next arena is different from the previous one.
-- Both AI tanks navigate around walls while their chassis rotate into turns.
-- Shots collide with maze walls, including when they cross a thin wall between
-  animation frames.
-- The maze keeps the shared monochrome CRT look and game-specific effects.
+- The AI tanks seek firing lanes, lead moving targets, and avoid firing through walls.
+- When threatened, a tank can briefly retreat behind cover, then return to attack.
+  Its turret can still fire during the retreat if a clear shot opens.
+- Tank Duel has a darker gray field, bright maze walls, smaller rotating tanks,
+  and a simpler score display inspired by the original game.
+- The randomized maze arenas, shared CRT controls, and game-specific effects
+  remain available.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
