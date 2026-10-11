@@ -1,14 +1,11 @@
-# Retro Mix Arcade 1.2.6
+# Retro Mix Arcade 1.2.7
 
-Tank Duel now has denser, more varied arenas inspired by the original arcade
-game. Shorter wall blocks create a more authentic maze silhouette, while the
-AI still navigates the passages and turns its whole tank to aim the fixed
-cannon.
+The screen saver extension now has a fallback animation path. If its own timer
+stops but macOS continues asking for frames, the games continue to advance.
 
-- The maze grows from 32 to 50 connected cells and changes after each win.
-- Verification covered 100 unique layouts and 20 AI wins, including cover
-  seeking, evasion, aiming, and firing.
-- Vectoroid keeps the rendering improvement introduced in 1.2.5.
+- A full-size switch test rendered all six games through 36 consecutive
+  selections and Mixed transitions without a black frame.
+- Tank Duel keeps the denser arenas introduced in 1.2.6.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
