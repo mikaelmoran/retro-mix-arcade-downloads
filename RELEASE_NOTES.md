@@ -15,6 +15,13 @@ codes remain valid.
 - Mixed mode now rotates through all six games. Existing Mixed selections
   migrate automatically.
 
+## Display refinements
+
+- Sprint applies its curved-tube warp to the small game image before display.
+- Vectoroid uses a lighter edge vignette and batches scanlines and pixel grille
+  drawing for smoother playback on large screens.
+- Shared effect choices are resolved when settings load across the games.
+
 ## Installation
 
 1. Expand the macOS ZIP and move `Retro Mix Arcade.app` to Applications,
