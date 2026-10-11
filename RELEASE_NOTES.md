@@ -1,14 +1,14 @@
-# Retro Mix Arcade 1.2.3
+# Retro Mix Arcade 1.2.4
 
-Tank Duel now plays more tactically and looks closer to the original arcade game.
+Tank Duel now follows the original game's fixed-cannon behavior.
 
-- The AI tanks seek firing lanes, lead moving targets, and avoid firing through walls.
-- When threatened, a tank can briefly retreat behind cover, then return to attack.
-  Its turret can still fire during the retreat if a clear shot opens.
-- Tank Duel has a darker gray field, bright maze walls, smaller rotating tanks,
-  and a simpler score display inspired by the original game.
-- The randomized maze arenas, shared CRT controls, and game-specific effects
-  remain available.
+- Each cannon is locked to its tank chassis. To aim, the AI stops and rotates
+  the entire tank toward its target.
+- Bullets always leave in the direction the tank faces.
+- The AI resumes steering through the maze after firing and still uses brief
+  cover and evasive moves when threatened.
+- The darker field, bright walls, smaller tanks, CRT effects, and randomized
+  arenas from the previous release remain.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
