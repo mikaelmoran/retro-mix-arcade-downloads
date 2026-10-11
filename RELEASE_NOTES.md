@@ -1,11 +1,8 @@
-# Retro Mix Arcade 1.2.7
+# Retro Mix Arcade 1.2.8
 
-The screen saver extension now has a fallback animation path. If its own timer
-stops but macOS continues asking for frames, the games continue to advance.
-
-- A full-size switch test rendered all six games through 36 consecutive
-  selections and Mixed transitions without a black frame.
-- Tank Duel keeps the denser arenas introduced in 1.2.6.
+Retro Mix Arcade now imports newer effect settings from the standalone Sprint 2
+app when Retro Mix opens, becomes active, or you click **Refresh effects**.
+Recent effect choices made in Retro Mix are preserved when they are newer.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 

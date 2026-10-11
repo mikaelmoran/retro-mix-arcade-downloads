@@ -16,6 +16,9 @@ Download the ZIP from [Releases](https://github.com/mikaelmoran/retro-mix-arcade
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **RetroMixModern**.
 
+If you also use the standalone Sprint 2 app, open Retro Mix Arcade or click
+**Refresh effects** there to import newer Sprint effect settings.
+
 The app requires macOS 14 or newer and includes Apple Silicon and Intel code.
 This build is locally signed and has not been notarized by Apple. If macOS
 blocks it, try opening the app once, then use **System Settings → Privacy &
