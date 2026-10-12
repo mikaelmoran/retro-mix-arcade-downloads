@@ -1,9 +1,12 @@
-# Retro Mix Arcade 1.2.9
+# Retro Mix Arcade 1.2.10
 
-Vectoroid's AI game now advances with real elapsed time when a full-size frame
-takes longer to draw. The simulation uses short steps to keep movement and
-collisions stable, and limits catch-up after a long pause. This keeps the
-action at its intended speed on demanding displays.
+Vectoroid now draws its game frames into a retro-resolution layer that macOS
+scales for the display. In the 2560 × 1440 capture benchmark, average frame
+time fell from about 100 ms to about 72 ms with all 60 effects enabled.
+The AI game still follows real elapsed time when drawing takes longer.
+
+The layer was checked in the live macOS screen saver, and the automated
+switching test covered 36 full-size game changes without a black frame.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
