@@ -1,12 +1,14 @@
-# Retro Mix Arcade 1.2.10
+# Retro Mix Arcade 1.2.11
 
-Vectoroid now draws its game frames into a retro-resolution layer that macOS
-scales for the display. In the 2560 × 1440 capture benchmark, average frame
-time fell from about 100 ms to about 72 ms with all 60 effects enabled.
-The AI game still follows real elapsed time when drawing takes longer.
+The settings app has a new arcade-style interface with a game list, gameplay
+captures, and separate Games, Effects, and About tabs. Each selected game has
+a direct Edit effects button, while the Effects tab opens all six sets of
+60 visual options. The live preview and Save selection actions remain one
+click away.
 
-The layer was checked in the live macOS screen saver, and the automated
-switching test covered 36 full-size game changes without a black frame.
+The game artwork uses captures from the actual screen saver. The window was
+checked in macOS, and the automated app test reopened all six effect panels,
+changed preview games, and exercised Mixed mode.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 

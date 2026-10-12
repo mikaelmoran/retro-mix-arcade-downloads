@@ -9,6 +9,13 @@ a game or select
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options.
 
+![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
+
+The settings app shows a capture of the selected game. Use **Games** to choose
+what plays, **Effects** to open any game's visual options, and **Live preview**
+to watch the selected game before saving. The image shows an already unlocked
+JMR license.
+
 ## Download and install
 
 Download the ZIP from [Releases](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases), expand it, and move
