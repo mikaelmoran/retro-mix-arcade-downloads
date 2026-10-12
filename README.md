@@ -21,7 +21,11 @@ each game's visual options. The image shows an already unlocked JMR license.
 Download the ZIP from [Releases](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
-choose **RetroMixModern**.
+choose **Retro Mix Arcade**.
+
+Click **Options…** in System Settings to choose a game there. **Save & close**
+applies the choice and closes the sheet. **Open full settings…** opens the app
+for the live preview and all effect controls.
 
 If you also use the standalone Sprint 2 app, open Retro Mix Arcade or click
 **Refresh effects** there to import newer Sprint effect settings.

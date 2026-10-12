@@ -1,31 +1,23 @@
-# Retro Mix Arcade 1.2.13
+# Retro Mix Arcade 1.2.14
 
-The main game display in the settings app is now live. Select a game from the
-list or use the arrows above the display to switch it instantly. Mixed Arcade
-also runs in the display and rotates between games as usual.
+The **Options…** button in macOS System Settings now opens Retro Mix Arcade's
+game selector. Choose one of the six games or Mixed, then click **Save & close**
+to apply the choice and close the sheet. **Open full settings…** opens the app
+for its live preview and effect controls.
 
-**Full preview** opens the larger preview window. **Save selection** applies
-the chosen game to the screen saver; browsing games in the app does not change
-the saved choice until you click it. The live display pauses when the settings
-app is hidden to avoid unnecessary work.
-
-The app was checked visually in macOS. The automated app test switched the
-inline and full previews, reopened all six effect panels, and exercised Mixed
-mode.
-
-The six AI games, Mixed mode, and existing JMR unlock codes remain available.
+This fixes the configuration sheet controller used by the modern screen saver
+extension. The button, saved selection, and sheet closing were checked in
+System Settings. The app's game and effect smoke test also passed.
 
 ## Installation
 
 1. Expand the macOS ZIP and move `Retro Mix Arcade.app` to Applications,
    replacing the previous copy.
-2. Open the app and click **Save selection**.
-3. In **System Settings → Wallpaper → Screen Saver**, choose
-   **RetroMixModern**.
+2. Open the app once, then choose **Retro Mix Arcade** in **System Settings →
+   Wallpaper → Screen Saver**.
+3. Use **Options…** there or the app to select a game.
 
 Requires macOS 14 or newer. The app contains Apple Silicon and Intel code.
-The [$5 JMR unlock item](https://buymeacoffee.com/mikaelmoran/e/585964)
-remains available.
+Existing JMR unlock codes remain valid.
 
-This archive is locally signed for development. For a smooth installation on
-other Macs, a Developer ID signed and notarized archive is required.
+This archive is locally signed for development and is not notarized by Apple.
