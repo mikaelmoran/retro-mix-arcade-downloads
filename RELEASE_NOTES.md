@@ -1,14 +1,17 @@
-# Retro Mix Arcade 1.2.12
+# Retro Mix Arcade 1.2.13
 
-The settings app has a more refined arcade interface: larger 16:9 game
-captures, real gameplay thumbnails in the selector, improved typography,
-subtle hover feedback, and more spacious controls. The Effects tab is easier
-to scan, and the About tab shows a clear JMR license status.
+The main game display in the settings app is now live. Select a game from the
+list or use the arrows above the display to switch it instantly. Mixed Arcade
+also runs in the display and rotates between games as usual.
 
-Games, Effects, and About keep their existing actions. The selected game's
-effects, live preview, and Save selection are still directly available. The
-app was checked visually in macOS, and the automated app test reopened all
-six effect panels, changed preview games, and exercised Mixed mode.
+**Full preview** opens the larger preview window. **Save selection** applies
+the chosen game to the screen saver; browsing games in the app does not change
+the saved choice until you click it. The live display pauses when the settings
+app is hidden to avoid unnecessary work.
+
+The app was checked visually in macOS. The automated app test switched the
+inline and full previews, reopened all six effect panels, and exercised Mixed
+mode.
 
 The six AI games, Mixed mode, and existing JMR unlock codes remain available.
 
