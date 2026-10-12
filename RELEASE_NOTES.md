@@ -1,13 +1,17 @@
-# Retro Mix Arcade 1.2.14
+# Retro Mix Arcade 1.2.15
 
-The **Options…** button in macOS System Settings now opens Retro Mix Arcade's
-game selector. Choose one of the six games or Mixed, then click **Save & close**
-to apply the choice and close the sheet. **Open full settings…** opens the app
-for its live preview and effect controls.
+Vectoroid now animates more smoothly in the full screen saver. Its faint
+phosphor trails use lighter drawing operations, vector outlines reuse their
+paths, and the rendering buffer scales down for small previews. The CRT look
+and all effect controls remain available.
 
-This fixes the configuration sheet controller used by the modern screen saver
-extension. The button, saved selection, and sheet closing were checked in
-System Settings. The app's game and effect smoke test also passed.
+On the development Mac, the full-screen Vectoroid extension used about 70%
+of one CPU core after this change, down from roughly 100%. A 2560 × 1440
+composited frame benchmark improved from about 71 ms to 53 ms. Actual speed
+depends on the Mac, display, and enabled effects.
+
+The animation timing check, 36 full-size game switches, app smoke test, and
+screen saver capture passed.
 
 ## Installation
 
@@ -15,7 +19,6 @@ System Settings. The app's game and effect smoke test also passed.
    replacing the previous copy.
 2. Open the app once, then choose **Retro Mix Arcade** in **System Settings →
    Wallpaper → Screen Saver**.
-3. Use **Options…** there or the app to select a game.
 
 Requires macOS 14 or newer. The app contains Apple Silicon and Intel code.
 Existing JMR unlock codes remain valid.
