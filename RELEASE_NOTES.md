@@ -1,16 +1,17 @@
-# Retro Mix Arcade 1.2.16
+# Retro Mix Arcade 1.2.17
 
-Breakout now moves faster and has more action. The AI paddle predicts which
-ball will land next and aims its return at bricks still on screen. Brick hits
-trigger three-ball bursts, and each cleared level starts a new brick pattern.
-Faster balls use smaller collision steps so they still register brick and
-paddle hits. The CRT effects remain available for every game.
+Pong now has smaller paddles and more varied AI rallies. The two players use
+corner shots, bank shots, and straight returns. Serves start faster, volleys
+accelerate, and both players can still miss, so points keep arriving. Faster
+balls use smaller collision steps to preserve reliable paddle and wall hits.
 
-The updated game passed five extended simulations, including multi-ball play,
-misses, and level changes. The app smoke test, effect sync test, 36 full-size
-game switches, and a 2560 × 1440 render benchmark also passed. Breakout's
-composited benchmark averaged 32.6 ms per frame on the development Mac;
-actual speed depends on the display and enabled effects.
+Breakout's faster three-ball action from 1.2.16 is included. CRT effects and
+existing JMR unlock codes remain available across all games.
+
+Five extended Pong simulations produced long rallies, bank shots, and regular
+points. The 2560 × 1440 composited render benchmark averaged 24.2 ms per Pong
+frame on the development Mac. Actual speed depends on the display and enabled
+effects.
 
 ## Installation
 
@@ -20,6 +21,4 @@ actual speed depends on the display and enabled effects.
    Wallpaper → Screen Saver**.
 
 Requires macOS 14 or newer. The app contains Apple Silicon and Intel code.
-Existing JMR unlock codes remain valid.
-
 This archive is locally signed for development and is not notarized by Apple.

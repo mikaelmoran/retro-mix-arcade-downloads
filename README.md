@@ -43,6 +43,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   and other screen effects across all games.
 - Separate game-specific effect controls, including 60 Sprint effects.
 - A preview that follows the currently selected game.
+- Two Pong AI players with smaller paddles, corner shots, bank shots, and
+  faster rallies.
 - Two AI tanks that navigate randomized mazes, use cover briefly when
   threatened, rotate their whole chassis to aim a fixed cannon, and seek clear
   shots in Tank Duel; an AI paddle in Breakout that steers balls toward
