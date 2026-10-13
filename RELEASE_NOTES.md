@@ -1,17 +1,16 @@
-# Retro Mix Arcade 1.2.15
+# Retro Mix Arcade 1.2.16
 
-Vectoroid now animates more smoothly in the full screen saver. Its faint
-phosphor trails use lighter drawing operations, vector outlines reuse their
-paths, and the rendering buffer scales down for small previews. The CRT look
-and all effect controls remain available.
+Breakout now moves faster and has more action. The AI paddle predicts which
+ball will land next and aims its return at bricks still on screen. Brick hits
+trigger three-ball bursts, and each cleared level starts a new brick pattern.
+Faster balls use smaller collision steps so they still register brick and
+paddle hits. The CRT effects remain available for every game.
 
-On the development Mac, the full-screen Vectoroid extension used about 70%
-of one CPU core after this change, down from roughly 100%. A 2560 × 1440
-composited frame benchmark improved from about 71 ms to 53 ms. Actual speed
-depends on the Mac, display, and enabled effects.
-
-The animation timing check, 36 full-size game switches, app smoke test, and
-screen saver capture passed.
+The updated game passed five extended simulations, including multi-ball play,
+misses, and level changes. The app smoke test, effect sync test, 36 full-size
+game switches, and a 2560 × 1440 render benchmark also passed. Breakout's
+composited benchmark averaged 32.6 ms per frame on the development Mac;
+actual speed depends on the display and enabled effects.
 
 ## Installation
 
