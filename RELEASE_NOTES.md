@@ -1,19 +1,20 @@
-# Retro Mix Arcade 1.2.18
+# Retro Mix Arcade 1.2.19
 
-All six games now share a more active CRT presentation. Collisions, blasts,
-brick hits, and score moments pulse the display frame. A live channel
-indicator and animated signal sweep make every game feel like part of the same
-arcade broadcast. These animations follow the existing Sprint glow, signal
-sweep, brightness, and intensity settings.
+The six autonomous games now make more deliberate, human-like decisions.
+Sprint drivers hold an overtaking line briefly instead of changing their minds
+every frame. Vectoroid's pilot selects threats, dodges approaching rocks, and
+fires in bursts. Pong players revise their estimate of the ball's landing and
+choose a shot before contact. Light Cycles riders have different risk levels
+and balance open space with pressure on the opponent. Tank Duel opponents aim
+from recent sightings with small corrections. Breakout's paddle reads the
+incoming balls in short intervals and chooses a brick lane for its return.
 
-Mixed mode has a stronger tuning transition with a brighter channel beam,
-short signal ghosts, and a lock indicator. The six gameplay captures and app
-preview images have been refreshed from the running games.
+These are rule-based computer players. Their reaction times and mistakes are
+bounded so games continue to move and score.
 
-The full-size test passed 36 game switches, including mid-transition frames
-with no black screen. The app smoke test passed. At 2560 × 1440, the six
-composited render benchmarks stayed close to the previous version on the
-development Mac; actual speed depends on the display and enabled effects.
+Automated gameplay checks passed for all six games. The full-size test passed
+36 switches between games with no black frames. Rendering at 2560 × 1440
+remained comparable to the previous release on the development Mac.
 
 ## Installation
 

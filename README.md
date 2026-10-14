@@ -45,12 +45,14 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   and other screen effects across all games.
 - Separate game-specific effect controls, including 60 Sprint effects.
 - A preview that follows the currently selected game.
-- Two Pong AI players with smaller paddles, corner shots, bank shots, and
-  faster rallies.
-- Two AI tanks that navigate randomized mazes, use cover briefly when
-  threatened, rotate their whole chassis to aim a fixed cannon, and seek clear
-  shots in Tank Duel; an AI paddle in Breakout that steers balls toward
-  remaining bricks and launches three-ball bursts.
+- Computer-controlled players with individual styles, brief reaction times,
+  tactical commitments, and occasional recoverable errors.
+- Sprint drivers hold overtaking lines; the Vectoroid pilot prioritizes threats,
+  dodges, and fires in bursts.
+- Pong players correct their ball reads and choose corner, bank, and
+  change-of-pace shots. Light Cycles riders balance territory and pressure.
+- Tank Duel opponents remember recent sightings, use cover, and correct their
+  aim; Breakout's paddle prioritizes incoming balls and targets brick lanes.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
