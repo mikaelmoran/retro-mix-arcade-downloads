@@ -1,20 +1,18 @@
-# Retro Mix Arcade 1.2.19
+# Retro Mix Arcade 1.2.20
 
-The six autonomous games now make more deliberate, human-like decisions.
-Sprint drivers hold an overtaking line briefly instead of changing their minds
-every frame. Vectoroid's pilot selects threats, dodges approaching rocks, and
-fires in bursts. Pong players revise their estimate of the ball's landing and
-choose a shot before contact. Light Cycles riders have different risk levels
-and balance open space with pressure on the opponent. Tank Duel opponents aim
-from recent sightings with small corrections. Breakout's paddle reads the
-incoming balls in short intervals and chooses a brick lane for its return.
+Sprint 2 cars now reach much higher speeds on the straights. The driver AI
+looks farther down the track to plan braking for corners, while updated
+steering and acceleration let the cars carry more speed without losing the
+retro racing feel.
 
-These are rule-based computer players. Their reaction times and mistakes are
-bounded so games continue to move and score.
+In a 12-track simulation, measured peak speed rose from about 110 to 162
+in-game units. The cars completed more laps over the same test time, with
+wall contacts close to the previous version. The test also checked for cars
+getting stuck and leaving the road.
 
-Automated gameplay checks passed for all six games. The full-size test passed
-36 switches between games with no black frames. Rendering at 2560 × 1440
-remained comparable to the previous release on the development Mac.
+The full-size screen saver test passed 36 switches between games with no black
+frames. Rendering at 2560 × 1440 remained comparable to the previous release
+on the development Mac.
 
 ## Installation
 

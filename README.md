@@ -47,7 +47,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 - A preview that follows the currently selected game.
 - Computer-controlled players with individual styles, brief reaction times,
   tactical commitments, and occasional recoverable errors.
-- Sprint drivers hold overtaking lines; the Vectoroid pilot prioritizes threats,
+- Sprint drivers hold overtaking lines, reach much higher speeds on straights,
+  and plan braking before corners. The Vectoroid pilot prioritizes threats,
   dodges, and fires in bursts.
 - Pong players correct their ball reads and choose corner, bank, and
   change-of-pace shots. Light Cycles riders balance territory and pressure.
