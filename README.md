@@ -7,7 +7,9 @@ games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, and Breakout. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
-effects, and each game has its own visual options.
+effects, and each game has its own visual options. Hits and crashes light the
+shared CRT frame, while a live channel display and signal sweep connect all
+six games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 

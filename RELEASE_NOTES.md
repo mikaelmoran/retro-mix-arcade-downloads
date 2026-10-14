@@ -1,17 +1,19 @@
-# Retro Mix Arcade 1.2.17
+# Retro Mix Arcade 1.2.18
 
-Pong now has smaller paddles and more varied AI rallies. The two players use
-corner shots, bank shots, and straight returns. Serves start faster, volleys
-accelerate, and both players can still miss, so points keep arriving. Faster
-balls use smaller collision steps to preserve reliable paddle and wall hits.
+All six games now share a more active CRT presentation. Collisions, blasts,
+brick hits, and score moments pulse the display frame. A live channel
+indicator and animated signal sweep make every game feel like part of the same
+arcade broadcast. These animations follow the existing Sprint glow, signal
+sweep, brightness, and intensity settings.
 
-Breakout's faster three-ball action from 1.2.16 is included. CRT effects and
-existing JMR unlock codes remain available across all games.
+Mixed mode has a stronger tuning transition with a brighter channel beam,
+short signal ghosts, and a lock indicator. The six gameplay captures and app
+preview images have been refreshed from the running games.
 
-Five extended Pong simulations produced long rallies, bank shots, and regular
-points. The 2560 × 1440 composited render benchmark averaged 24.2 ms per Pong
-frame on the development Mac. Actual speed depends on the display and enabled
-effects.
+The full-size test passed 36 game switches, including mid-transition frames
+with no black screen. The app smoke test passed. At 2560 × 1440, the six
+composited render benchmarks stayed close to the previous version on the
+development Mac; actual speed depends on the display and enabled effects.
 
 ## Installation
 
@@ -21,4 +23,5 @@ effects.
    Wallpaper → Screen Saver**.
 
 Requires macOS 14 or newer. The app contains Apple Silicon and Intel code.
-This archive is locally signed for development and is not notarized by Apple.
+Existing JMR unlock codes remain valid. The archive is locally signed for
+development and is not notarized by Apple.
