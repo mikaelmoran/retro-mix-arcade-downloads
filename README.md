@@ -1,15 +1,16 @@
 # Retro Mix Arcade
 
-![The six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
+![The original six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
 
-Retro Mix Arcade is a macOS screen saver featuring six autonomous arcade
-games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, and Breakout. Choose
+Retro Mix Arcade is a macOS screen saver featuring seven autonomous arcade
+games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout, and
+Moonlander. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options. Hits and crashes light the
 shared CRT frame, while a live channel display and signal sweep connect all
-six games visually.
+seven games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 
@@ -39,7 +40,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 ## Features
 
-- Six games played by autonomous opponents.
+- Seven games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
 - Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
   and other screen effects across all games.
@@ -54,6 +55,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   change-of-pace shots. Light Cycles riders balance territory and pressure.
 - Tank Duel opponents remember recent sightings, use cover, and correct their
   aim; Breakout's paddle prioritizes incoming balls and targets brick lanes.
+- Moonlander's AI pilot manages thrust, sideways drift, fuel, and changing
+  landing sites, with occasional harder descents.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
@@ -68,6 +71,10 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 | Light Cycles | Tank Duel | Breakout |
 | --- | --- | --- |
 | ![Light Cycles](Images/Screenshots/light-cycles.png) | ![Tank Duel](Images/Screenshots/tank-duel.png) | ![Breakout](Images/Screenshots/breakout.png) |
+
+| Moonlander |
+| --- |
+| ![Moonlander](Images/Screenshots/moonlander.png) |
 
 This repository contains downloads and documentation. Third-party license
 information is in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

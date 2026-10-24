@@ -1,18 +1,22 @@
-# Retro Mix Arcade 1.2.20
+# Retro Mix Arcade 1.3.0
 
-Sprint 2 cars now reach much higher speeds on the straights. The driver AI
-looks farther down the track to plan braking for corners, while updated
-steering and acceleration let the cars carry more speed without losing the
-retro racing feel.
+Moonlander joins Retro Mix Arcade as the seventh autonomous screen saver game.
+Its pilot uses limited fuel and timed thrust decisions to cross changing lunar
+terrain, correct sideways drift, and land on illuminated pads. Every mission
+creates a new surface and landing site. Most descents are careful; occasional
+riskier missions end in a near miss or crash before the next attempt begins.
 
-In a 12-track simulation, measured peak speed rose from about 110 to 162
-in-game units. The cars completed more laps over the same test time, with
-wall contacts close to the previous version. The test also checked for cars
-getting stuck and leaving the road.
+Moonlander has 60 selectable visual effects. Shared CRT controls follow Sprint
+2's effect settings, while terrain, lander, exhaust, landing, impact, and HUD
+effects have their own presets and intensity. The game appears in the settings
+app, live preview, System Settings Options sheet, and Mixed rotation. Existing
+Mixed selections are migrated automatically.
 
-The full-size screen saver test passed 36 switches between games with no black
-frames. Rendering at 2560 × 1440 remained comparable to the previous release
-on the development Mac.
+Automated play completed 300 simulated seconds with successful landings and
+crashes. The full-size test passed 42 game switches and transition frames with
+no black screen. Moonlander rendered at about 15 ms per frame at 2560 × 1440
+on the development Mac; actual speed depends on the display and enabled
+effects.
 
 ## Installation
 
