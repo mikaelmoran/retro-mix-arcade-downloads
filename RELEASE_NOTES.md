@@ -1,22 +1,15 @@
-# Retro Mix Arcade 1.3.0
+# Retro Mix Arcade 1.3.1
 
-Moonlander joins Retro Mix Arcade as the seventh autonomous screen saver game.
-Its pilot uses limited fuel and timed thrust decisions to cross changing lunar
-terrain, correct sideways drift, and land on illuminated pads. Every mission
-creates a new surface and landing site. Most descents are careful; occasional
-riskier missions end in a near miss or crash before the next attempt begins.
+Moonlander now has harder missions as the AI pilot progresses. Rugged ridges
+and narrower landing pads alternate with cavern routes. The caverns have two
+or three rock barriers with openings at different horizontal positions, so
+the pilot has to steer through each passage before landing. Layouts change
+between missions, and crashes lead to another attempt.
 
-Moonlander has 60 selectable visual effects. Shared CRT controls follow Sprint
-2's effect settings, while terrain, lander, exhaust, landing, impact, and HUD
-effects have their own presets and intensity. The game appears in the settings
-app, live preview, System Settings Options sheet, and Mixed rotation. Existing
-Mixed selections are migrated automatically.
-
-Automated play completed 300 simulated seconds with successful landings and
-crashes. The full-size test passed 42 game switches and transition frames with
-no black screen. Moonlander rendered at about 15 ms per frame at 2560 × 1440
-on the development Mac; actual speed depends on the display and enabled
-effects.
+The pilot now plans a safe holding height between barriers and follows each
+opening in turn. In repeated 300-second simulations, it completed all four
+three-gate missions in each run while still making occasional errors on other
+missions. Full-size game switching was also checked for black frames.
 
 ## Installation
 

@@ -56,7 +56,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 - Tank Duel opponents remember recent sightings, use cover, and correct their
   aim; Breakout's paddle prioritizes incoming balls and targets brick lanes.
 - Moonlander's AI pilot manages thrust, sideways drift, fuel, and changing
-  landing sites, with occasional harder descents.
+  landing sites. Later missions add rugged ridges and cavern routes with two
+  or three alternating openings before a narrow landing pad.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
@@ -75,6 +76,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 | Moonlander |
 | --- |
 | ![Moonlander](Images/Screenshots/moonlander.png) |
+
+![Moonlander cavern mission](Images/Screenshots/moonlander-cavern.png)
 
 This repository contains downloads and documentation. Third-party license
 information is in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
