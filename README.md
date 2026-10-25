@@ -58,11 +58,14 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 - Moonlander's AI pilot manages thrust, sideways drift, fuel, and changing
   landing sites. Later missions add rugged ridges and cavern routes with two
   or three alternating openings before a narrow landing pad.
-- Missile Defense has three AI controlled batteries protecting six cities from
-  incoming and splitting missiles. Star Squadron has formation waves, diving
-  enemies, and an autonomous pilot. Maze Chase has generated mazes, four
-  pursuing hunters, pellets, and power phases. These games are inspired by
-  Missile Command, Galaga, and Pac-Man respectively.
+- Missile Defense carries city damage across waves and adds splitting and
+  evasive missiles, destructible batteries, and wave bonuses. Star Squadron
+  has distinct enemies, looping dives, challenge stages, a tractor beam, and
+  a rescuable second fighter. Maze Chase has a mirrored maze, center ghost
+  house, side tunnel, bonus fruit, four smoothly animated hunters with
+  different targets, and a pellet-clearing player that pursues frightened
+  ghosts.
+  These games are inspired by Missile Command, Galaga, and Pac-Man respectively.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
@@ -87,6 +90,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 | Missile Defense | Star Squadron | Maze Chase |
 | --- | --- | --- |
 | ![Missile Defense](Images/Screenshots/missile-defense.png) | ![Star Squadron](Images/Screenshots/star-squadron.png) | ![Maze Chase](Images/Screenshots/maze-chase.png) |
+
+![Star Squadron tractor beam](Images/Screenshots/star-squadron-beam.png)
 
 This repository contains downloads and documentation. Third-party license
 information is in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

@@ -1,26 +1,29 @@
-# Retro Mix Arcade 1.4.0
+# Retro Mix Arcade 1.5.0
 
-Three more autonomous games join the screen saver, bringing the total to ten:
+This release substantially rebuilds the three newest screen saver games while
+keeping Retro Mix Arcade's monochrome CRT style and existing effect controls.
 
-- **Missile Defense**, inspired by Missile Command: three AI batteries prioritize
-  threats and launch interceptors to protect six cities. Later waves introduce
-  splitting missiles and a faster attack pace.
-- **Star Squadron**, inspired by Galaga: alien formations move and dive while
-  an AI pilot tracks targets, fires, and survives enemy shots.
-- **Maze Chase**, inspired by Pac-Man: a self-playing runner collects pellets
-  through newly generated mazes while four hunters chase, scatter, and retreat
-  during power phases.
+- **Missile Defense:** Six cities now persist between waves. Three batteries
+  have limited ammunition and can be destroyed. Later waves add splitting and
+  evasive missiles. The AI predicts intercept points, prioritizes threats,
+  and earns bonuses for surviving cities and unused ammunition. Incoming
+  trails, targeting marks, and expanding blasts are easier to follow.
+- **Star Squadron:** Distinct enemy types enter formation, peel off on curved
+  dives, and return smoothly. Bosses have tougher hulls and can use a tractor
+  beam; the AI can rescue a captured fighter and fire with two ships. Shot
+  dodging, explosion sprites, and challenge waves add variety.
+- **Maze Chase:** A mirrored maze now includes a ghost house, side tunnel,
+  four hunters with different targets, alternating chase and scatter periods,
+  frightened behavior, bonus fruit, and lives. The runner routes around the
+  ghost house, clears pellets, pursues frightened ghosts, and starts another
+  round. Independent motion timing keeps all four ghosts moving smoothly;
+  animated hems, directional eyes, returning ghost eyes, a timed chomping
+  mouth, and a closing death animation give the characters more life.
 
-Each game has 60 selectable effects, including Sprint's shared CRT controls and
-its own game-specific visuals. All three appear in the live app preview, the
-System Settings Options sheet, and Mixed rotation. Existing Mixed selections
-migrate automatically. The new app preview thumbnails and gameplay captures
-come from the running screen saver.
-
-Automated play ran each new game for 300 simulated seconds. Full-size tests
-passed 60 game switches and transition frames without black screens. At
-2560 × 1440, the new games averaged about 15–22 ms per frame on the
-development Mac; actual performance depends on the display and enabled effects.
+In repeated five-minute simulations, the missile AI cleared at least 14
+waves, the squadron pilot completed at least 15 waves, and the maze runner
+cleared at least five boards. Full-size switching and render tests passed on
+the development Mac; actual speed depends on the display and enabled effects.
 
 ## Installation
 
