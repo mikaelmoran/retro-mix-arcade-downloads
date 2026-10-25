@@ -2,15 +2,16 @@
 
 ![The original six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
 
-Retro Mix Arcade is a macOS screen saver featuring ten autonomous arcade
+Retro Mix Arcade is a macOS screen saver featuring twelve autonomous arcade
 games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout,
-Moonlander, Missile Defense, Star Squadron, and Maze Chase. Choose
+Moonlander, Missile Defense, Star Squadron, Maze Chase, Garden Swarm, and
+River Crossing. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options. Hits and crashes light the
 shared CRT frame, while a live channel display and signal sweep connect all
-ten games visually.
+twelve games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 
@@ -40,7 +41,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 ## Features
 
-- Ten games played by autonomous opponents.
+- Twelve games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
 - Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
   and other screen effects across all games.
@@ -66,6 +67,10 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   different targets, and a pellet-clearing player that pursues frightened
   ghosts.
   These games are inspired by Missile Command, Galaga, and Pac-Man respectively.
+- Garden Swarm has a segmented insect that splits when hit, mushroom obstacles,
+  a spider, flea, scorpion, and an AI shooter. River Crossing has moving
+  traffic, logs, diving turtles, crocodiles, five homes, and an AI frog that
+  plans its next landing. They draw inspiration from Centipede and Frogger.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
@@ -92,6 +97,10 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 | ![Missile Defense](Images/Screenshots/missile-defense.png) | ![Star Squadron](Images/Screenshots/star-squadron.png) | ![Maze Chase](Images/Screenshots/maze-chase.png) |
 
 ![Star Squadron tractor beam](Images/Screenshots/star-squadron-beam.png)
+
+| Garden Swarm | River Crossing |
+| --- | --- |
+| ![Garden Swarm](Images/Screenshots/garden-swarm.png) | ![River Crossing](Images/Screenshots/river-crossing.png) |
 
 This repository contains downloads and documentation. Third-party license
 information is in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
