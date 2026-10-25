@@ -2,15 +2,15 @@
 
 ![The original six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
 
-Retro Mix Arcade is a macOS screen saver featuring seven autonomous arcade
-games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout, and
-Moonlander. Choose
+Retro Mix Arcade is a macOS screen saver featuring ten autonomous arcade
+games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout,
+Moonlander, Missile Defense, Star Squadron, and Maze Chase. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options. Hits and crashes light the
 shared CRT frame, while a live channel display and signal sweep connect all
-seven games visually.
+ten games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 
@@ -40,7 +40,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 ## Features
 
-- Seven games played by autonomous opponents.
+- Ten games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
 - Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
   and other screen effects across all games.
@@ -58,6 +58,11 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 - Moonlander's AI pilot manages thrust, sideways drift, fuel, and changing
   landing sites. Later missions add rugged ridges and cavern routes with two
   or three alternating openings before a narrow landing pad.
+- Missile Defense has three AI controlled batteries protecting six cities from
+  incoming and splitting missiles. Star Squadron has formation waves, diving
+  enemies, and an autonomous pilot. Maze Chase has generated mazes, four
+  pursuing hunters, pellets, and power phases. These games are inspired by
+  Missile Command, Galaga, and Pac-Man respectively.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
@@ -78,6 +83,10 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 | ![Moonlander](Images/Screenshots/moonlander.png) |
 
 ![Moonlander cavern mission](Images/Screenshots/moonlander-cavern.png)
+
+| Missile Defense | Star Squadron | Maze Chase |
+| --- | --- | --- |
+| ![Missile Defense](Images/Screenshots/missile-defense.png) | ![Star Squadron](Images/Screenshots/star-squadron.png) | ![Maze Chase](Images/Screenshots/maze-chase.png) |
 
 This repository contains downloads and documentation. Third-party license
 information is in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

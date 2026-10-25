@@ -1,15 +1,26 @@
-# Retro Mix Arcade 1.3.1
+# Retro Mix Arcade 1.4.0
 
-Moonlander now has harder missions as the AI pilot progresses. Rugged ridges
-and narrower landing pads alternate with cavern routes. The caverns have two
-or three rock barriers with openings at different horizontal positions, so
-the pilot has to steer through each passage before landing. Layouts change
-between missions, and crashes lead to another attempt.
+Three more autonomous games join the screen saver, bringing the total to ten:
 
-The pilot now plans a safe holding height between barriers and follows each
-opening in turn. In repeated 300-second simulations, it completed all four
-three-gate missions in each run while still making occasional errors on other
-missions. Full-size game switching was also checked for black frames.
+- **Missile Defense**, inspired by Missile Command: three AI batteries prioritize
+  threats and launch interceptors to protect six cities. Later waves introduce
+  splitting missiles and a faster attack pace.
+- **Star Squadron**, inspired by Galaga: alien formations move and dive while
+  an AI pilot tracks targets, fires, and survives enemy shots.
+- **Maze Chase**, inspired by Pac-Man: a self-playing runner collects pellets
+  through newly generated mazes while four hunters chase, scatter, and retreat
+  during power phases.
+
+Each game has 60 selectable effects, including Sprint's shared CRT controls and
+its own game-specific visuals. All three appear in the live app preview, the
+System Settings Options sheet, and Mixed rotation. Existing Mixed selections
+migrate automatically. The new app preview thumbnails and gameplay captures
+come from the running screen saver.
+
+Automated play ran each new game for 300 simulated seconds. Full-size tests
+passed 60 game switches and transition frames without black screens. At
+2560 × 1440, the new games averaged about 15–22 ms per frame on the
+development Mac; actual performance depends on the display and enabled effects.
 
 ## Installation
 
