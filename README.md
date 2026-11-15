@@ -2,16 +2,16 @@
 
 ![The original six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
 
-Retro Mix Arcade is a macOS screen saver featuring twelve autonomous arcade
+Retro Mix Arcade is a macOS screen saver featuring fifteen autonomous arcade
 games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout,
-Moonlander, Missile Defense, Star Squadron, Maze Chase, Garden Swarm, and
-River Crossing. Choose
+Moonlander, Missile Defense, Star Squadron, Maze Chase, Garden Swarm,
+River Crossing, Horizon Defense, Barrel Climb, and Line Capture. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options. Hits and crashes light the
 shared CRT frame, while a live channel display and signal sweep connect all
-twelve games visually.
+fifteen games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 
@@ -24,7 +24,7 @@ The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.7.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.7.0), expand it, and move
+Download the ZIP from [version 1.8.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.8.0), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -43,7 +43,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 ## Features
 
-- Twelve games played by autonomous opponents.
+- Fifteen games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
 - Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
   and other screen effects across all games.
@@ -73,6 +73,10 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   a spider, flea, scorpion, and an AI shooter. River Crossing has moving
   traffic, logs, diving turtles, crocodiles, five homes, and an AI frog that
   plans its next landing. They draw inspiration from Centipede and Frogger.
+- Horizon Defense, Barrel Climb, and Line Capture are inspired by Defender,
+  Donkey Kong, and Qix. Their AI pilots intercept aliens, jump and climb
+  around barrels, and draw lines to claim territory. Each has four optional
+  game effects alongside the shared CRT controls.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
@@ -106,3 +110,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 This repository contains downloads and documentation. Third-party license
 information is in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+| Horizon Defense | Barrel Climb | Line Capture |
+| --- | --- | --- |
+| ![Horizon Defense](Images/Screenshots/horizon-defense.png) | ![Barrel Climb](Images/Screenshots/barrel-climb.png) | ![Line Capture](Images/Screenshots/line-capture.png) |

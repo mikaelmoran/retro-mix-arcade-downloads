@@ -1,17 +1,18 @@
-# Retro Mix Arcade 1.7.0
+# Retro Mix Arcade 1.8.0
 
-All twelve games now pass through the Sprint 2 display renderer, giving them
-the same monochrome pixel grid, CRT frame, curved glass, scanlines, and shared
-screen and phosphor effects. Game-specific effects remain individually
-configurable.
+Three new AI-played games join the arcade:
 
-Open **Effects → Shared CRT / Sprint 2** to choose the shared effects and
-strength, then save. The live preview and screen saver use those settings.
+- **Horizon Defense**, inspired by Defender: intercept descending aliens
+  and protect people on the ground.
+- **Barrel Climb**, inspired by Donkey Kong: jump rolling barrels, climb
+  ladders and reach the top of the stage.
+- **Line Capture**, inspired by Qix: draw lines to claim territory while
+  avoiding the moving shape.
 
-The shared rendering is more demanding than the previous display path for
-some games. On the development Mac, synchronous full-size image captures at
-2560 × 1440 measured approximately 36–40 ms per frame. Actual screen saver
-performance varies with the Mac, display resolution, and enabled effects.
+All fifteen games use the shared Sprint CRT renderer and can be chosen in
+the settings app, screen saver options, or Mixed mode. The three new games
+each add four adjustable game effects alongside the shared CRT controls.
+Previous Mixed selections migrate automatically.
 
 ## Installation
 
