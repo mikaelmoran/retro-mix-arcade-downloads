@@ -1,19 +1,17 @@
-# Retro Mix Arcade 1.6.2
+# Retro Mix Arcade 1.7.0
 
-This update improves full-size rendering for the games that were most expensive
-at 2560 × 1440.
+All twelve games now pass through the Sprint 2 display renderer, giving them
+the same monochrome pixel grid, CRT frame, curved glass, scanlines, and shared
+screen and phosphor effects. Game-specific effects remain individually
+configurable.
 
-- Vectoroid now draws directly at display resolution and reuses its CRT grille
-  geometry. Its measured render time fell from about 45 ms to 37 ms per frame.
-- Garden Swarm and River Crossing use a precomposited field color while keeping
-  their existing appearance. Garden Swarm fell from about 33 ms to 24 ms.
-- Sprint 2 reuses its scanline geometry. Its current full-size render remains
-  around 33–35 ms on the development Mac.
-- Rechecked all twelve games, 70 full-size game switches, nonblack frames,
-  autonomous play, Vectoroid timing, and effect synchronization.
+Open **Effects → Shared CRT / Sprint 2** to choose the shared effects and
+strength, then save. The live preview and screen saver use those settings.
 
-These numbers are synchronous render measurements on one Mac, not a guaranteed
-screen saver frame rate. Display resolution and enabled effects still matter.
+The shared rendering is more demanding than the previous display path for
+some games. On the development Mac, synchronous full-size image captures at
+2560 × 1440 measured approximately 36–40 ms per frame. Actual screen saver
+performance varies with the Mac, display resolution, and enabled effects.
 
 ## Installation
 

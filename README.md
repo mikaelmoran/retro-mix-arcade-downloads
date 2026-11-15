@@ -18,11 +18,13 @@ twelve games visually.
 The settings app plays the selected game live. Choose from the **Games** list
 or use the arrows above the display, then click **Save selection** to apply it
 to the screen saver. **Full preview** opens a larger window; **Effects** opens
-each game's visual options. The image shows an already unlocked JMR license.
+each game's visual options. For screen and phosphor effects shared by all
+games, open **Effects → Shared CRT / Sprint 2** and save your changes.
+The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.6.2](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.6.2), expand it, and move
+Download the ZIP from [version 1.7.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.7.0), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
