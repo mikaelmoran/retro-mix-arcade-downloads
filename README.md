@@ -24,7 +24,7 @@ The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.8.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.8.0), expand it, and move
+Download the ZIP from [version 1.8.1](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.8.1), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -74,8 +74,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   traffic, logs, diving turtles, crocodiles, five homes, and an AI frog that
   plans its next landing. They draw inspiration from Centipede and Frogger.
 - Horizon Defense, Barrel Climb, and Line Capture are inspired by Defender,
-  Donkey Kong, and Qix. Their AI pilots intercept aliens, jump and climb
-  around barrels, and draw lines to claim territory. Each has four optional
+  Donkey Kong, and Qix. Their AI pilots intercept aliens over a scrolling world, jump and climb
+  around barrels, and draw lines to claim territory while avoiding hazards. Each has four optional
   game effects alongside the shared CRT controls.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.

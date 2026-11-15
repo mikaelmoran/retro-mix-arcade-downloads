@@ -1,18 +1,16 @@
-# Retro Mix Arcade 1.8.0
+# Retro Mix Arcade 1.8.1
 
-Three new AI-played games join the arcade:
+The three newest arcade games have updated graphics and motion:
 
-- **Horizon Defense**, inspired by Defender: intercept descending aliens
-  and protect people on the ground.
-- **Barrel Climb**, inspired by Donkey Kong: jump rolling barrels, climb
-  ladders and reach the top of the stage.
-- **Line Capture**, inspired by Qix: draw lines to claim territory while
-  avoiding the moving shape.
+- **Horizon Defense** now scrolls around a wider world, with a scanner,
+  animated ships, enemy fire, evasive AI and particle bursts.
+- **Barrel Climb** has more detailed girders, ladders and pixel characters,
+  with rolling and falling barrels.
+- **Line Capture** has a thinner playfield, animated line work and smoothly
+  moving player marker and edge hazards. The target now matches the displayed
+  75 percent.
 
-All fifteen games use the shared Sprint CRT renderer and can be chosen in
-the settings app, screen saver options, or Mixed mode. The three new games
-each add four adjustable game effects alongside the shared CRT controls.
-Previous Mixed selections migrate automatically.
+All games continue to use the shared monochrome CRT display and effects.
 
 ## Installation
 
