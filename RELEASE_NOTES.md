@@ -1,16 +1,13 @@
-# Retro Mix Arcade 1.8.1
+# Retro Mix Arcade 1.8.2
 
-The three newest arcade games have updated graphics and motion:
+**Barrel Climb** has improved barrel physics, AI and animation:
 
-- **Horizon Defense** now scrolls around a wider world, with a scanner,
-  animated ships, enemy fire, evasive AI and particle bursts.
-- **Barrel Climb** has more detailed girders, ladders and pixel characters,
-  with rolling and falling barrels.
-- **Line Capture** has a thinner playfield, animated line work and smoothly
-  moving player marker and edge hazards. The target now matches the displayed
-  75 percent.
-
-All games continue to use the shared monochrome CRT display and effects.
+- Each girder now slopes in the direction its barrels roll. Barrels fall to
+  the next girder at the end and rotate with their actual travel.
+- The AI predicts encounters from relative position and speed, finishes jumps
+  before taking ladders, and checks for approaching barrels above.
+- Jumping and climbing have separate animated poses. Barrel speed and launch
+  timing vary from one barrel to the next.
 
 ## Installation
 
