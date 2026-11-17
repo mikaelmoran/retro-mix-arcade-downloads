@@ -1,5 +1,4 @@
-# Retro Mix Arcade 1.9.3
+# Retro Mix Arcade 1.9.4
 
-- Redesigned Karate Duel fighters with more natural proportions and detailed monochrome pixel art.
-- Added intermediate strike and recovery frames and AI spinning roundhouse and low sweeping kicks.
-- Adjusted hit range and impact position to match the new attacks.
+- Added a custom pixel-art referee to Karate Duel, with individual point-signalling poses and exaggerated follow-through animation.
+- Keeps the shared monochrome CRT presentation and all existing game settings.
