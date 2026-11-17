@@ -24,7 +24,7 @@ The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.9.4](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.4), expand it, and move
+Download the ZIP from [version 1.9.5](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.5), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -78,7 +78,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   around barrels that roll downhill, and draw lines to claim territory while avoiding hazards. Each has four optional
   game effects alongside the shared CRT controls.
 - Karate Duel features two AI fighters with detailed pixel-art sprites, animated punches, spinning and low kicks, blocks,
-  scoring rounds, and a referee. It draws inspiration from Karate Champ.
+  scoring rounds, and a referee with a bonus celebration. It draws inspiration from Karate Champ.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
