@@ -20,11 +20,11 @@ or use the arrows above the display, then click **Save selection** to apply it
 to the screen saver. **Full preview** opens a larger window; **Effects** opens
 each game's visual options. For screen and phosphor effects shared by all
 games, open **Effects → Shared CRT / Sprint 2** and save your changes.
-The image shows an already unlocked JMR license.
+Retro Mix Arcade is free, fully unlocked, and does not require a key.
 
 ## Download and install
 
-Download the ZIP from [version 1.9.8](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.8), expand it, and move
+Download the ZIP from [version 2.0.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v2.0.0), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -81,8 +81,8 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   scoring rounds, and a referee with a bonus celebration. It draws inspiration from Karate Champ.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
-- A moving JMR watermark that can be removed with a personal code from the
-  [$5 unlock item](https://buymeacoffee.com/mikaelmoran/e/585964).
+- Completely free and fully unlocked, with no watermark or license code.
+- Optional support for future improvements through [Buy Me a Coffee](https://buymeacoffee.com/mikaelmoran).
 
 ## Gameplay captures
 

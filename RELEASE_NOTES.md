@@ -1,6 +1,6 @@
-# Retro Mix Arcade 1.9.8
+# Retro Mix Arcade 2.0.0
 
-- Reworked Barrel Climb routes so the climber generally faces oncoming barrels.
-- Added multiple usable ladders, barrels that sometimes descend them, and a patrolling fire enemy.
-- Improved AI jump timing and threat prediction; the challenge adapts after repeated setbacks.
-- Added a brief rescue celebration before the next round.
+- Retro Mix Arcade is now free and fully unlocked for everyone.
+- Removed the moving JMR watermark and the need for a license or personal code.
+- Added an optional Buy Me a Coffee link to support future development.
+- Existing game and visual settings are preserved.
