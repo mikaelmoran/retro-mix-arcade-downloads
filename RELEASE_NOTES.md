@@ -1,6 +1,5 @@
-# Retro Mix Arcade 1.9.0
+# Retro Mix Arcade 1.9.1
 
-- Added Karate Duel, a new arcade-inspired match between two AI fighters.
-- Animated punches, kicks, blocks, reactions, scoring, and referee signals.
-- Includes Karate Duel in game rotation, preview, shared CRT effects, and the game effects editor.
-- Preserves existing Mixed Arcade selections when upgrading.
+- Replaced Karate Duel fighters with detailed, original monochrome pixel-art sprites.
+- Added distinct walking, blocking, strike, kick, wind-up and hit-reaction poses.
+- Matched the reach of attacks to the new sprites.
