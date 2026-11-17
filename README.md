@@ -2,16 +2,16 @@
 
 ![The original six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
 
-Retro Mix Arcade is a macOS screen saver featuring fifteen autonomous arcade
+Retro Mix Arcade is a macOS screen saver featuring sixteen autonomous arcade
 games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout,
 Moonlander, Missile Defense, Star Squadron, Maze Chase, Garden Swarm,
-River Crossing, Horizon Defense, Barrel Climb, and Line Capture. Choose
+River Crossing, Horizon Defense, Barrel Climb, Line Capture, and Karate Duel. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options. Hits and crashes light the
 shared CRT frame, while a live channel display and signal sweep connect all
-fifteen games visually.
+sixteen games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 
@@ -24,7 +24,7 @@ The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.8.3](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.8.3), expand it, and move
+Download the ZIP from [version 1.9.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.0), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -43,7 +43,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 ## Features
 
-- Fifteen games played by autonomous opponents.
+- Sixteen games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
 - Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
   and other screen effects across all games.
@@ -77,12 +77,16 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   Donkey Kong, and Qix. Their AI pilots intercept aliens over a scrolling world, jump and climb
   around barrels that roll downhill, and draw lines to claim territory while avoiding hazards. Each has four optional
   game effects alongside the shared CRT controls.
+- Karate Duel features two AI fighters with animated punches, kicks, blocks,
+  scoring rounds, and a referee. It draws inspiration from Karate Champ.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - A moving JMR watermark that can be removed with a personal code from the
   [$5 unlock item](https://buymeacoffee.com/mikaelmoran/e/585964).
 
 ## Gameplay captures
+
+![Karate Duel](Images/Screenshots/karate-duel.png)
 
 | Sprint 2 | Vectoroid | Pong |
 | --- | --- | --- |

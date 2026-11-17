@@ -1,6 +1,6 @@
-# Retro Mix Arcade 1.8.3
+# Retro Mix Arcade 1.9.0
 
-- Refined Star Squadron with pixel-art fighters and animated enemy wings.
-- Improved River Crossing frog poses and Garden Swarm centipede sprites.
-- Added a barrel-throwing pose to Barrel Climb.
-- Retains the shared monochrome CRT presentation and selectable effects.
+- Added Karate Duel, a new arcade-inspired match between two AI fighters.
+- Animated punches, kicks, blocks, reactions, scoring, and referee signals.
+- Includes Karate Duel in game rotation, preview, shared CRT effects, and the game effects editor.
+- Preserves existing Mixed Arcade selections when upgrading.
