@@ -24,7 +24,7 @@ The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.9.1](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.1), expand it, and move
+Download the ZIP from [version 1.9.3](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.3), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -77,7 +77,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   Donkey Kong, and Qix. Their AI pilots intercept aliens over a scrolling world, jump and climb
   around barrels that roll downhill, and draw lines to claim territory while avoiding hazards. Each has four optional
   game effects alongside the shared CRT controls.
-- Karate Duel features two AI fighters with detailed pixel-art sprites, animated punches, kicks, blocks,
+- Karate Duel features two AI fighters with detailed pixel-art sprites, animated punches, spinning and low kicks, blocks,
   scoring rounds, and a referee. It draws inspiration from Karate Champ.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
