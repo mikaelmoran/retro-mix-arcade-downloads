@@ -1,6 +1,7 @@
-# Retro Mix Arcade 1.9.5
+# Retro Mix Arcade 1.9.6
 
-- Added an occasional Karate Duel bonus celebration after a clean spinning kick.
-- The referee moves into the foreground, jumps, and returns as the match continues.
-- Refined pixel-art creatures in Garden Swarm and River Crossing.
-- Added animated pixel characters and vehicles in Horizon Defense and Barrel Climb.
+- Redesigned Garden Swarm creatures with shaded, animated pixel-art cels.
+- Added detailed frog, turtle and crocodile artwork to River Crossing.
+- Refined Horizon Defense spacecraft and animated invaders.
+- Redesigned Barrel Climb characters with multi-tone sprites and improved running, jumping and climbing poses.
+- Retains the shared monochrome CRT treatment and existing effects.

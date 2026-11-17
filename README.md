@@ -24,7 +24,7 @@ The image shows an already unlocked JMR license.
 
 ## Download and install
 
-Download the ZIP from [version 1.9.5](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.5), expand it, and move
+Download the ZIP from [version 1.9.6](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v1.9.6), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
