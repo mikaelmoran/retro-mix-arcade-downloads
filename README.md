@@ -2,16 +2,17 @@
 
 ![The original six Retro Mix Arcade games](Images/RetroMixArcade-six-games.png)
 
-Retro Mix Arcade is a macOS screen saver featuring sixteen autonomous arcade
+Retro Mix Arcade is a macOS screen saver featuring eighteen autonomous arcade
 games: Sprint 2, Vectoroid, Pong, Light Cycles, Tank Duel, Breakout,
 Moonlander, Missile Defense, Star Squadron, Maze Chase, Garden Swarm,
-River Crossing, Horizon Defense, Barrel Climb, Line Capture, and Karate Duel. Choose
+River Crossing, Horizon Defense, Barrel Climb, Line Capture, Karate Duel,
+Coastline Drive, and Snake 2026. Choose
 a game or select
 **Mixed** to rotate between them every two minutes with a CRT tuning
 transition. The games share Sprint's monochrome display style and common CRT
 effects, and each game has its own visual options. Hits and crashes light the
 shared CRT frame, while a live channel display and signal sweep connect all
-sixteen games visually.
+eighteen games visually.
 
 ![Retro Mix Arcade settings app](Images/RetroMixArcade-app.png)
 
@@ -24,7 +25,7 @@ Retro Mix Arcade is free, fully unlocked, and does not require a key.
 
 ## Download and install
 
-Download the ZIP from [version 2.0.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v2.0.0), expand it, and move
+Download the ZIP from [version 2.1.0](https://github.com/mikaelmoran/retro-mix-arcade-downloads/releases/tag/v2.1.0), expand it, and move
 **Retro Mix Arcade.app** to Applications. Open the app, choose a game, and
 click **Save selection**. In **System Settings → Wallpaper → Screen Saver**,
 choose **Retro Mix Arcade**.
@@ -43,7 +44,7 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
 
 ## Features
 
-- Sixteen games played by autonomous opponents.
+- Eighteen games played by autonomous opponents.
 - A mixed mode with smooth CRT transitions.
 - Sprint-style CRT glass, scanlines, glow, curvature, flicker, noise, RGB split,
   and other screen effects across all games.
@@ -79,12 +80,18 @@ Security → Open Anyway** as described in [Apple's instructions](https://suppor
   game effects alongside the shared CRT controls.
 - Karate Duel features two AI fighters with detailed pixel-art sprites, animated punches, spinning and low kicks, blocks,
   scoring rounds, and a referee with a bonus celebration. It draws inspiration from Karate Champ.
+- Coastline Drive is an AI-driven coastal racer with traffic, checkpoints and arcade-style collision reactions.
+- Snake 2026 features AI pathfinding, changing obstacles, levels and score multipliers.
 - Tank Duel's dark field, bright walls, small rotating tanks, and simple score
   display take cues from the original arcade game.
 - Completely free and fully unlocked, with no watermark or license code.
 - Optional support for future improvements through [Buy Me a Coffee](https://buymeacoffee.com/mikaelmoran).
 
 ## Gameplay captures
+
+| Coastline Drive | Snake 2026 |
+| --- | --- |
+| ![Coastline Drive](Images/Screenshots/coastline-drive.png) | ![Snake 2026](Images/Screenshots/snake-2026.png) |
 
 ![Karate Duel](Images/Screenshots/karate-duel.png)
 
